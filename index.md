@@ -20,7 +20,7 @@ We that the mass balances are not as well conserved for the larger domain, and t
 
 ## Videos of simualtions
 ### Video for 15 AR-Step network for event 55313 on terrain 1
-Something seems to have gone for this specific rain/terrain combinations such that MIKE does not aggregate water at local peaks.
+Something seems to have gone for this specific rain/terrain combinations such that MIKE does not aggregate water in depressions.
 ![Results 55313 ter1](sim_movie_55313_ter1.gif) 
 ### Video for 15 AR-Step network for event 55313 on terrain 2
 ![Results 55313 ter2](sim_movie_55313_ter2.gif) 
